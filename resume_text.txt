@@ -1,0 +1,54 @@
++91 8879139228
+vedantcheulkar29032004@gmail.com
+linkedin.com/in/VedantCheulkar
+Skills
+Testing & QA: Functional Testing, Manual Testing, Performance Testing
+Programming Languages: JavaScript, Python 
+Frontend Development: React.js, HTML5, CSS3, Bootstrap  
+Mobile Development: React Native, Expo, CLI 
+Backend & Database: MySQL, Firebase, MongoDB, Node.js, PostgreSQL
+Tools & Platforms: Git, GitHub, Postman, VS Code
+Achievements & Certifications
+Top 50 Finalist – Odoo x Gujarat Vidyapith Hackathon 2025, Gujarat Vidyapith, Gujarat (Mar 2025): Selected
+among top 50 teams from 2000+ registrations for building Raksha Setu, a safety and support app.
+Top 75 Finalist – Odoo x Nirman 2025, Amity University, Mumbai (Feb 2025): Selected among top 75 teams
+from 600+ registrations for building Telemedicine App aimed at improving rural healthcare access through
+video consultations and AI-based health reports.
+Top 40 Finalist – Hackcelestial 1.0, Pillai College of Engineering, Panvel (Aug 2024): Developed an Alumni
+Portal to connect past and present students, enabling mentorship, job referrals, and event updates.
+Education
+B.E. Information Technology
+        Pillai HOC College of Engineering & Technology, Rasayani
+HSC 
+        Dnyanpushpa Vidya Niketan School and Junior College, Belapur
+SSC
+        D.A.V. International School, Kharghar
+2022-2026
+2020-2022
+2020
+Responsibilities
+Graphic Designer – ACE (Association of Coders and Encoders Club): Designed posters and visuals for college events and
+managed creative content for student outreach.
+Vedant Cheulkar
+Projects
+Raksha Setu – Women Safety & Emergency App
+React Native | Firebase | FCM | AI | Google Maps
+Collaborated in a 4-member team to develop and test a safety-focused mobile application with critical real-time features
+Performed end-to-end testing of SOS alert system, live location tracking, and emergency notification features to ensure 99.9%
+reliability
+Conducted API testing for Firebase Cloud Messaging integration and validated geofenced notification delivery
+Tested and debugged real-time data synchronization between frontend and Firebase backend to ensure data consistency
+Validated admin dashboard functionality for managing users, guardians, and system-wide activities
+Identified and resolved critical bugs in emergency response workflows, improving response time by optimizing notification
+triggers
+Performed security testing on user authentication and data privacy features to ensure compliance with safety standards
+Expense Tracker Wallet App
+React Native | Expo | Clerk | Express.js | PostgreSQL | Redis
+Developed and tested a mobile application for tracking financial transactions with real-time balance updates
+Conducted functional testing on authentication flows including signup, login, and email verification using Clerk
+Performed API testing using Postman to validate backend endpoints built with Express.js and PostgreSQL database
+Tested rate limiting functionality implemented with Redis to ensure system stability under load
+Executed manual testing on real devices using Expo to identify UI/UX issues and ensure cross-device compatibility
+Debugged and resolved issues related to transaction management (add/delete), pull-to-refresh, and session handling
+Validated database operations and data integrity across PostgreSQL hosted on Neon platform
+Kharghar,Navi Mumbai
