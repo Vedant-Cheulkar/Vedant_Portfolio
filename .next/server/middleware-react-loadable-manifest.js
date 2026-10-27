@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"app\\\\components\\\\ProjectGrid.tsx -> ./ProjectModal\":{\"id\":\"app\\\\components\\\\ProjectGrid.tsx -> ./ProjectModal\",\"files\":[\"static/chunks/_app-pages-browser_app_components_ProjectModal_tsx.js\"]}}"
