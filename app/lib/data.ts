@@ -58,19 +58,19 @@ export const skills = [
 export const experience = [
     {
         id: 1,
-        role: "Frontend Developer",
-        company: "Kstar Technology LLP",
-        period: "Feb 2026 - Present",
-        description: "Leading frontend development for 'Elite-Pro' (School Admin Dashboard). Implementing responsive UI designs and optimizing component performance.",
-        skills: ["React.js", "API Integration", "TypeScript", "Figma Integration"]
+        role: "Associate Consultant (Frontend Developer)",
+        company: "Rigved Infotech Pvt. Ltd. · Navi Mumbai",
+        period: "Jul 2026 - Present",
+        description: "Building UVP Pragati, a cross-platform vendor-lifecycle and procurement platform for web, Android, and iOS. Developed shared API infrastructure and delivered vendor onboarding, LOI negotiation, e-signature, and agreement workflows with RBAC, SSO, localization, and responsive dashboards.",
+        skills: ["Flutter", "Dart", "Riverpod", "Clean Architecture", "Dio", "GoRouter"]
     },
     {
         id: 2,
-        role: "QA Tester Intern",
-        company: "Kstar Technology LLP",
-        period: "Dec 2025 - Present",
-        description: "Ensuring pixel-perfect UI implementation and functional stability. Notable projects include Vittam PWA, Mauli Marketing App, and UltraTech's 'Mission Happiness'.",
-        skills: ["Functional Testing", "API Testing", "Cosmetic UI Testing"]
+        role: "Fullstack Developer",
+        company: "Kstars Technology LLP · Navi Mumbai",
+        period: "Aug 2025 - Jun 2026",
+        description: "Engineered Elite Pro (Eazelite 2.0), a multi-tenant school-management SaaS with 10+ modules, granular RBAC, and separate admin and student portals. Built reusable API and table infrastructure, migrated the frontend to Vite to reduce build times by 40%, and performed functional, UI, and API testing for Edufund's Vittam partner portal.",
+        skills: ["React.js", "Redux Toolkit", "Vite", "Axios", "REST APIs", "QA Testing"]
     },
 ];
 
@@ -91,13 +91,13 @@ export interface Project {
 export const homeProjects: Project[] = [
     {
         id: 1,
-        title: 'Elite-Pro',
-        year: '2026',
-        category: 'React.js • TypeScript • API Integration',
+        title: 'Raksha Setu',
+        year: '2025',
+        category: 'React Native • Firebase • Gemini AI',
         description:
-            'Leading frontend development for School Admin Dashboard. Implementing responsive UI designs and optimizing performance.',
-        image: '/projects/dashboard-placeholder.jpg', // Using a placeholder, user can update
-        href: 'https://github.com/Vedant-Cheulkar',
+            'Women safety app with SOS alerts, live tracking, AI chatbot, legal assistant & community forum.',
+        image: '/projects/rakshasetu-2.png',
+        href: 'https://github.com/PratikPisal4304/17-TEAM_RAKSHASETU',
         featured: true,
         imageFit: 'cover',
     },
@@ -115,13 +115,13 @@ export const homeProjects: Project[] = [
     },
     {
         id: 3,
-        title: 'Raksha Setu',
+        title: 'Expenza',
         year: '2025',
-        category: 'React Native • Firebase • Gemini AI',
+        category: 'React Native • Expo • PostgreSQL • Clerk',
         description:
-            'Women safety app with SOS alerts, live tracking, AI chatbot, legal assistant & community forum.',
-        image: '/projects/rakshasetu-2.png',
-        href: 'https://github.com/PratikPisal4304/17-TEAM_RAKSHASETU',
+            'Financial transaction tracker with real-time balance updates and secure authentication.',
+        image: '/projects/banner.png',
+        href: 'https://github.com/Vedant-Cheulkar/Expenza',
         featured: false,
         imageFit: 'contain',
     },

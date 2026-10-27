@@ -69,7 +69,7 @@ export default function ContactForm() {
                         </div>
                         <h3 className="text-3xl font-bold mb-3 tracking-tight text-black">Message Sent!</h3>
                         <p className="text-neutral-600 text-lg mb-6">
-                            Thanks for reaching out. I'll get back to you soon.
+                            Thanks for reaching out. I&apos;ll get back to you soon.
                         </p>
                         <button
                             onClick={() => setStatus('idle')}
